@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tembeng-Timothy
-- 👀 I’m interested in C#,C,JavaScript,CSS and computer as a whole
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on the growth of the society in the aspect of computer programming
+- 👋 Hi, I’m @Tembeng-Timothy-Forgwe
+- 👀 I’m interested in .Net and React js.
+- 🌱 I’m currently learning .Net
+- 💞️ I’m looking to collaborate on the growth of the society in the aspect of .net software development
 - 📫 How to reach me Tembengtimothyf@gmail.com
 
 <!---
