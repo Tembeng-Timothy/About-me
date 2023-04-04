@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tembeng-Timothy-Forgwe
-- 👀 I’m interested in .Net and React js.
+- 👀 I’m interested in .Net in C#, Bootstrap, Wordpress, SQL.
 - 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on the growth of the society in the aspect of .net software development
 - 📫 How to reach me Tembengtimothyf@gmail.com
